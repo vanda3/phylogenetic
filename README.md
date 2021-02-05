@@ -19,3 +19,9 @@ So, other the examples above, more can be used in a similar fashion.
 ## Algorithms
 - UPGMA
 - Neighbor Joining
+
+## Run Code
+python3 phylo.py 
+
+- Input: name of the .txt file containing a protein family in FASTA format), e.g.: PF17366
+- Output: two .png files: one for UPGMA and one for NJ
